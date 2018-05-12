@@ -1,0 +1,10 @@
+C:\Users\Fabi Kadir\Documents\Visual Studio 2017\Projects\Hammadde Taşıma\Hammadde Taşıma\bin\Debug\Hammadde Taşıma.exe.config
+C:\Users\Fabi Kadir\Documents\Visual Studio 2017\Projects\Hammadde Taşıma\Hammadde Taşıma\bin\Debug\Hammadde Taşıma.exe
+C:\Users\Fabi Kadir\Documents\Visual Studio 2017\Projects\Hammadde Taşıma\Hammadde Taşıma\bin\Debug\Hammadde Taşıma.pdb
+C:\Users\Fabi Kadir\Documents\Visual Studio 2017\Projects\Hammadde Taşıma\Hammadde Taşıma\obj\Debug\Hammadde Taşıma.csprojResolveAssemblyReference.cache
+C:\Users\Fabi Kadir\Documents\Visual Studio 2017\Projects\Hammadde Taşıma\Hammadde Taşıma\obj\Debug\Hammadde_Taşıma.Form1.resources
+C:\Users\Fabi Kadir\Documents\Visual Studio 2017\Projects\Hammadde Taşıma\Hammadde Taşıma\obj\Debug\Hammadde_Taşıma.Properties.Resources.resources
+C:\Users\Fabi Kadir\Documents\Visual Studio 2017\Projects\Hammadde Taşıma\Hammadde Taşıma\obj\Debug\Hammadde Taşıma.csproj.GenerateResource.Cache
+C:\Users\Fabi Kadir\Documents\Visual Studio 2017\Projects\Hammadde Taşıma\Hammadde Taşıma\obj\Debug\Hammadde Taşıma.csproj.CoreCompileInputs.cache
+C:\Users\Fabi Kadir\Documents\Visual Studio 2017\Projects\Hammadde Taşıma\Hammadde Taşıma\obj\Debug\Hammadde Taşıma.exe
+C:\Users\Fabi Kadir\Documents\Visual Studio 2017\Projects\Hammadde Taşıma\Hammadde Taşıma\obj\Debug\Hammadde Taşıma.pdb
